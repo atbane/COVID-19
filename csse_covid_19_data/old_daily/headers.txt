@@ -1,0 +1,200 @@
+==> 01-22-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-23-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-24-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-25-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-26-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-27-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-28-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-29-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-30-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 01-31-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-01-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-02-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-03-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-04-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-05-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-06-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-07-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-08-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-09-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-10-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-11-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-12-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-13-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-14-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-15-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-16-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-17-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-18-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-19-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-20-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-21-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-22-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-23-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-24-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-25-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-26-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-27-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-28-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 02-29-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+
+==> 03-01-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-02-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-03-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-04-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-05-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-06-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-07-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-08-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-09-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-10-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-11-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-12-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-13-2020.csv <==
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-14-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-15-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-16-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-17-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-18-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-19-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-20-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-21-2020.csv <==
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+
+==> 03-22-2020.csv <==
+﻿FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
+
+==> 03-23-2020.csv <==
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
+
+==> 03-24-2020.csv <==
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
+
+==> 03-25-2020.csv <==
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
+
+==> 03-26-2020.csv <==
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
+
+==> 03-27-2020.csv <==
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
+
+==> 03-28-2020.csv <==
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
