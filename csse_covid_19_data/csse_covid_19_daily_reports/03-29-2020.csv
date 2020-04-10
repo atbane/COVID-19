@@ -3254,7 +3254,11 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,Tibet,China,2/23/20 11:19,31.6927,88.0924,1,0,1,0,"Tibet, China"
 ,,Turks and Caicos Islands,United Kingdom,3/29/20 23:08,21.694,-71.7979,4,0,0,4,"Turks and Caicos Islands, United Kingdom"
 ,,Victoria,Australia,3/29/20 23:14,-37.8136,144.9631,769,4,191,574,"Victoria, Australia"
+<<<<<<< HEAD
 78000,,Virgin Islands,US,3/29/20 23:08,18.3358,-64.8963,0,0,0,0,"Virgin Islands, US"
+=======
+78000,,Virgin Islands,US,3/29/20 23:08,18.3358,-64.8963,23,0,0,0,"Virgin Islands, US"
+>>>>>>> 1a68338bddea934490f772051121adad47bf543e
 ,,Western Australia,Australia,3/29/20 23:14,-31.9505,115.8605,311,2,28,281,"Western Australia, Australia"
 ,,Xinjiang,China,3/8/20 5:31,41.1129,85.2401,76,3,73,0,"Xinjiang, China"
 ,,Yukon,Canada,3/29/20 23:13,64.2823,-135,4,0,0,0,",Yukon,Canada"
